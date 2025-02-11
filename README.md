@@ -1,5 +1,5 @@
 # online-store-js
-<a href="https://alexknyazev1.github.io/online-store-js/catalog.html"> Посмотреть работу(desktop)</a>
+<a href="https://alexknyazev1.github.io/online-store-js/catalog.html"> Посмотреть работу(desktop)</a><br>
 Добавление javascript функционала в верстку.
 
 1. Открытие/закрытие бургерного меню "Каталог",
